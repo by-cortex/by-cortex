@@ -16,8 +16,8 @@ SYSTEM INFO
 
 STACK
 -----
-  Frontend  : React
-  Backend   : Node.js, Express
+  Frontend  : React, NEXT.JS
+  Backend   : Node.js, Express, NEST.JS
   DB/Cache  : PostgreSQL, SQLite, MongoDB
   Other     : Python, C/C++, Lua
   Tools     : Git, Docker, Linux, Vim/Neovim
