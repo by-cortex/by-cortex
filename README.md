@@ -3,8 +3,8 @@
 ---
 
 ### ⚙️ Workflow
-*   **Core Systems:** NixOS (Flakes), Btrfs + LUKS, Disko
-*   **Environment:** Niri WM, Neovim (Lua), Fish Shell
+*   **Core Systems:** Gentoo Linux, Btrfs + LUKS
+*   **Environment:** DWL, Neovim, Fish Shell
 *   **Knowledge Base:** Obsidian
 
 ---
