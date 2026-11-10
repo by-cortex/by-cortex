@@ -3,8 +3,9 @@
 ---
 
 ### ⚙️ Workflow
-*   **Core Systems:** Gentoo Linux, Btrfs + LUKS
-*   **Environment:** DWL, Neovim, Fish Shell
+*   **Core Systems:** Gentoo Linux, Btrfs + LUKS, OpenRC
+*   **Environment:** DWL, Neovim, tmux, Fish Shell
+*   **HW**: ThinkPad L390
 *   **Knowledge Base:** Obsidian
 
 ---
